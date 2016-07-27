@@ -1,0 +1,9 @@
+c:\users\marcin\documents\visual studio 2013\Projects\OpenBCI_GUI\OpenBCI_GUI\bin\Debug\OpenBCI_GUI.exe.config
+c:\users\marcin\documents\visual studio 2013\Projects\OpenBCI_GUI\OpenBCI_GUI\obj\Debug\OpenBCI_GUI.csprojResolveAssemblyReference.cache
+c:\users\marcin\documents\visual studio 2013\Projects\OpenBCI_GUI\OpenBCI_GUI\obj\Debug\OpenBCI_GUI.Form1.resources
+c:\users\marcin\documents\visual studio 2013\Projects\OpenBCI_GUI\OpenBCI_GUI\obj\Debug\OpenBCI_GUI.Properties.Resources.resources
+c:\users\marcin\documents\visual studio 2013\Projects\OpenBCI_GUI\OpenBCI_GUI\obj\Debug\OpenBCI_GUI.csproj.GenerateResource.Cache
+c:\users\marcin\documents\visual studio 2013\Projects\OpenBCI_GUI\OpenBCI_GUI\bin\Debug\OpenBCI_GUI.exe
+c:\users\marcin\documents\visual studio 2013\Projects\OpenBCI_GUI\OpenBCI_GUI\bin\Debug\OpenBCI_GUI.pdb
+c:\users\marcin\documents\visual studio 2013\Projects\OpenBCI_GUI\OpenBCI_GUI\obj\Debug\OpenBCI_GUI.exe
+c:\users\marcin\documents\visual studio 2013\Projects\OpenBCI_GUI\OpenBCI_GUI\obj\Debug\OpenBCI_GUI.pdb
